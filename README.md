@@ -25,7 +25,7 @@ The following files were added to the project to make it functional
 
 ### Code Repository
 
-    https://github.com/marksmoore/Budget-Tracker
+    <https://github.com/marksmoore/Budget-Tracker>
 
 
 ### Screenshots
